@@ -100,20 +100,27 @@ All models are trained on synthetic datasets built using domain-based rules and 
 
 ---
 
-## Screenshots
 
-![Homepage](Screenshots/Home.png)
-![Screenshot 2](Screenshots/2.png)
-![Screenshot 7](Screenshots/7.png)
-![Screenshot 8](Screenshots/8.png)
-![Screenshot 9](Screenshots/9.png)
-![Chatbot](Screenshots/Chatbot.png)
-![Current Location Risk Analysis](Screenshots/loc.png)
-![Detailed Location Risk Analysis](Screenshots/Currentloaction.png)
-![General Risk Prediction](Screenshots/GenaralPrediction.png)
-![Screenshot 10](Screenshots/10.png)
-![Screenshot 11](Screenshots/11.png)
-![Screenshot 12](Screenshots/12.png)
+<p>
+  <img src="Screenshots/Home.png"><br>
+  <img src="Screenshots/2.png"><br>
+  <img src="Screenshots/Chatbot.png"><br>
+  <img src="Screenshots/loc.png"><br>
+  <img src="Screenshots/Currentloaction.png"><br>
+  <img src="Screenshots/GenaralPrediction.png"><br>
+</p>
+
+
+<p>
+  <img src="Screenshots/7.png" width="400">
+  <img src="Screenshots/8.png" width="400"><br>
+
+  <img src="Screenshots/9.png" width="400">
+  <img src="Screenshots/10.png" width="400"><br>
+
+  <img src="Screenshots/11.png" width="400">
+  <img src="Screenshots/12.png" width="400"><br>
+</p>
 
 
 
