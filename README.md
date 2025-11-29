@@ -85,7 +85,6 @@ Data fetched:
 
 Used for chatbot responses and first-aid guidance.
 
-All models are trained on synthetic datasets built using domain-based rules and API-derived parameters, ensuring prediction availability even when API data is limited.
 
 ---
 
@@ -101,26 +100,22 @@ All models are trained on synthetic datasets built using domain-based rules and 
 ---
 
 
-<p>
-  <img src="Screenshots/Home.png"><br>
-  <img src="Screenshots/2.png"><br>
-  <img src="Screenshots/Chatbot.png"><br>
-  <img src="Screenshots/loc.png"><br>
-  <img src="Screenshots/Currentloaction.png"><br>
-  <img src="Screenshots/GenaralPrediction.png"><br>
-</p>
+<!-- Auto-arranging image gallery -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="Screenshots/Home.png">
+  <img src="Screenshots/2.png">
+  <img src="Screenshots/Chatbot.png">
+  <img src="Screenshots/loc.png">
+  <img src="Screenshots/Currentloaction.png">
+  <img src="Screenshots/GenaralPrediction.png">
+  <img src="Screenshots/7.png">
+  <img src="Screenshots/8.png">
+  <img src="Screenshots/9.png">
+  <img src="Screenshots/10.png">
+  <img src="Screenshots/11.png">
+  <img src="Screenshots/12.png">
+</div>
 
-
-<p>
-  <img src="Screenshots/7.png" width="400">
-  <img src="Screenshots/8.png" width="400"><br>
-
-  <img src="Screenshots/9.png" width="400">
-  <img src="Screenshots/10.png" width="400"><br>
-
-  <img src="Screenshots/11.png" width="400">
-  <img src="Screenshots/12.png" width="400"><br>
-</p>
 
 
 
