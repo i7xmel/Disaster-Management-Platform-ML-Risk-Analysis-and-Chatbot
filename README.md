@@ -106,7 +106,7 @@ Used for chatbot responses and first-aid guidance.
   <img src="Screenshots/Chatbot.png" height="300">
   <img src="Screenshots/loc.png" height="400">
   <img src="Screenshots/Currentloaction.png" height="200">
-  <img src="Screenshots/GenaralPrediction.png" height="200">
+  <img src="Screenshots/GenaralPrediction.png" height="400">
   <img src="Screenshots/7.png" height="200">
   <img src="Screenshots/8.png" height="200">
   <img src="Screenshots/9.png" height="200">
