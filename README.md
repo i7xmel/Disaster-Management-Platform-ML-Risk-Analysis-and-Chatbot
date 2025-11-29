@@ -100,21 +100,21 @@ Used for chatbot responses and first-aid guidance.
 ---
 
 
-<!-- Auto-arranging image gallery -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="Screenshots/Home.png">
-  <img src="Screenshots/2.png">
-  <img src="Screenshots/Chatbot.png">
-  <img src="Screenshots/loc.png">
-  <img src="Screenshots/Currentloaction.png">
-  <img src="Screenshots/GenaralPrediction.png">
-  <img src="Screenshots/7.png">
-  <img src="Screenshots/8.png">
-  <img src="Screenshots/9.png">
-  <img src="Screenshots/10.png">
-  <img src="Screenshots/11.png">
-  <img src="Screenshots/12.png">
-</div>
+<p>
+  <img src="Screenshots/Home.png" height="200">
+  <img src="Screenshots/2.png" height="200">
+  <img src="Screenshots/Chatbot.png" height="200">
+  <img src="Screenshots/loc.png" height="200">
+  <img src="Screenshots/Currentloaction.png" height="200">
+  <img src="Screenshots/GenaralPrediction.png" height="200">
+  <img src="Screenshots/7.png" height="200">
+  <img src="Screenshots/8.png" height="200">
+  <img src="Screenshots/9.png" height="200">
+  <img src="Screenshots/10.png" height="200">
+  <img src="Screenshots/11.png" height="200">
+  <img src="Screenshots/12.png" height="200">
+</p>
+
 
 
 
