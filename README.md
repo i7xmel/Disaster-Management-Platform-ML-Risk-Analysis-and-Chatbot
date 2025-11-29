@@ -99,6 +99,7 @@ Used for chatbot responses and first-aid guidance.
 
 ---
 
+## Screenshots
 
 <p>
   <img src="Screenshots/Home.png" height="400">
