@@ -16,6 +16,7 @@ By centralizing reporting, resource allocation, and risk analysis, Res-Q improve
 * User location–based risk analysis
 * Web-based dashboard with real-time updates
 
+
 ---
 
 ## Technology Stack
